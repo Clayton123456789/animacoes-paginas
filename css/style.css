@@ -198,6 +198,20 @@ footer .main {
     background: rgb(110, 199, 226);
     color: black;
     width: 15%;
-    height: 35px;
-    
+   
+}
+
+#btntop {
+    position: fixed;
+    bottom: 18px;
+    right: 30px;
+    height: 60px;
+    width: 60px;
+    background: #ccc;
+    border: none;
+    border-radius: 100%;
+
+}
+#btntop img {
+    width: 30px;
 }
